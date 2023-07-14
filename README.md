@@ -1,6 +1,4 @@
 # P5js Projects
-[![GitHub issues](https://img.shields.io/github/issues/Carla-de-Beer/P5js-Projects.svg?style=flat-square)](https://github.com/Carla-de-Beer/P5js-Projects/issues)
-[![GitHub issues](https://img.shields.io/github/issues/ben-dh3/p5js-projects.svg?style=flat-square)]([https://github.com/ben-dh3/p5js-projects/issues])
 
 This repository contains a collection of sketches exploring some techniques in P5. These sketches can be run using any local server. For more information on P5.js, visit the P5.js homepage: https://p5js.org.
 
